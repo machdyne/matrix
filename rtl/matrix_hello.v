@@ -1,6 +1,6 @@
 /*
  * MATRIX
- * Coprright (c) 2022 Lone Dynamics Corporation. All rights reserved.
+ * Copyright (c) 2022 Lone Dynamics Corporation. All rights reserved.
  *
  * Hello world example.
  *
